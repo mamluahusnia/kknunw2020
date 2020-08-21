@@ -43,6 +43,8 @@ a {
   font-size: 45px;
   letter-spacing: 5px;
   margin-bottom: 10px;
+  -webkit-text-stroke: 0.05em #000;
+   }
 }
 
 .top-wrapper p {
